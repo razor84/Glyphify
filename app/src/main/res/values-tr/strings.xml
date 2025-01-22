@@ -1,0 +1,82 @@
+<resources>
+    <!--General-->
+    <string name="app_name">Glyphify</string>
+
+    <string name="title_home">Glyphifier</string>
+    <string name="title_ringtones">Zil sesleri</string>
+    <string name="title_notifications">Bildirimler</string>
+
+    <string name="alert_posbtn">Tamam</string>
+    <string name="alert_negbtn">İptal et</string>
+
+    <string name="title_foreground_notification">Glifleri tekrar kullanışlı hale getir</string>
+    <string name="title_new_version">Glyphify güncellemesi</string>
+
+    <string name="msg_new_version">Yeni bir sürüm mevcut, GitHub\'dan indirmek için dokunun</string>
+
+    <string name="support_me">Hoş geldiniz! Bu bir öğrenci tarafından yapılmış, kullanımı ücretsiz ve reklamsız bir uygulamadır. Çalışmalarımızı değerli bulursanız ve takdir etmek isterseniz, bağış yapmayı veya GitHub depomuza bir yıldız vermeyi düşünün. Herhangi bir desteğiniz takdir edilir, bunu okuduğunuz için teşekkürler!</string>
+    <string name="support_paypal">Bana bir kahve ısmarla</string>
+    <string name="support_github">Depomu yıldızla</string>
+
+
+    <!--Home fragment-->
+    <string name="btn_file_selection">Bir dosya seçin</string>
+    <string name="btn_donate">Bağış yapın</string>
+
+    <string name="alert_msg_output_name">ZİL SESİNİZ İÇİN BİR İSİM GİRİN</string>
+    <string name="alert_msg_perm_notifications">Yeni bir güncelleme yayınlandığında bildirilmesine izin verin</string>
+
+    <string name="toggle_expanded_title">BÖLGE SAYISI</string>
+    <string name="toggle_text_5zones">5 BÖLGE</string>
+    <string name="toggle_text_33zones">33 BÖLGE</string>
+
+    <string name="progress_text_1">Şarkınız analiz ediliyor…</string>
+    <string name="progress_text_2">Benzersiz animasyonlar oluşturuluyor</string>
+    <string name="progress_text_3">Neredeyse tamamlandı…</string>
+
+    <string name="error_duration_long">Lütfen en fazla 5 dakikalık bir ses dosyası seçin</string>
+    <string name="error_invalid_audio_file">Lütfen bir ses dosyası seçin</string>
+    <string name="error_no_file">Böyle bir dosya yok</string>
+    <string name="error_failed_load">Dosya yüklenirken başarısız oldu</string>
+    <string name="error_failed_conv_wav">WAV dosyasına dönüştürme başarısız oldu</string>
+    <string name="error_failed_create_comp">Beste oluşturma başarısız oldu</string>
+    <string name="error_failed_exporting_comp">Besteyi zil sesine aktarma başarısız oldu</string>
+    <string name="error_no_output_name">Zil sesi için herhangi bir isim sağlanmadı</string>
+
+
+    <!--Ringtones fragment-->
+    <string name="btn_apply_ringtone">Zil sesini uygula</string>
+    <string name="btn_share">Paylaş</string>
+    <string name="btn_delete">Sil</string>
+
+    <string name="toast_ringtone_applied">Varsayılan zil sesi uygulandı</string>
+    <string name="alert_msg_perm_settings">Bu uygulamanın zil sesini uygulayabilmesi için sistem ayarlarını değiştirmesi gerekiyor. Buna izin vermek istiyor musunuz?</string>
+
+
+    <!--Notifications fragment-->
+    <string name="btn_add_app">Uygulama</string>
+    <string name="btn_sleep_mode_start">Başlangıç ​​zamanı</string>
+    <string name="btn_sleep_mode_end">Bitiş zamanı</string>
+
+    <string name="alert_msg_perm_contacts">Bir kişiden gelen bildirimi algılamak için kişileri okumaya izin verin</string>
+    <string name="alert_msg_perm_notifications_listener">Bu panel herhangi bir Glif bölgesini "Temel" bildirim olarak seçmenize olanak tanır: Bir Glif bölgesine dokunun, bir kişi seçin ve o kişiden her bildirim aldığınızda, bildirimi kaydırana veya yanıtlayana kadar Glif açık kalır. Bunu yapmak için uygulamanın bildirimleri ve kişilerinizi okumasına izin vermeniz gerekir.\n\nİzni vermeye çalıştığınızda, bir \'Kısıtlı ayarlar'\ iletişim kutusu açılacaktır. İzni vermek için Ayarlar uygulaması -> Uygulamalar -> Glyphify -> üç noktaya gidin, ardından izni vermek için Glyphify\'a geri dönün.\nÜç nokta, \'Kısıtlı ayarlar\' açılır penceresi gösterilene kadar üç nokta görünmeyecektir.</string>
+    <string name="alert_msg_sleep_mode">Genişletilmiş Temel\'i belirli bir zamanda kapatmak için zamanlama yapın</string>
+
+    <string name="title_sleep_mode">UYKU MODU</string>
+
+    <string name="toggle_dimming_title">GLİF YOĞUNLUĞU</string>
+    <string name="toggle_text_dimming_low">DÜŞÜK</string>
+    <string name="toggle_text_dimming_mid">ORTA</string>
+    <string name="toggle_text_dimming_high">YÜKSEK</string>
+    <string name="toggle_text_dimming_var">DEĞİŞKEN</string>
+
+    <string name="snackbar_long_tap_remove">Bir öğeyi kaldırmak için uzun dokunun</string>
+
+    <string-array name="ee_animations_names">
+        <item>STATİK</item>
+        <item>NABIZ</item>
+        <item>!PİNG-PONG</item>
+        <item>!DALGA</item>
+    </string-array>
+
+</resources>
